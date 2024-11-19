@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap:https://fuqnnssjiqnns.github.io/zp532_1/sitemap.xml
